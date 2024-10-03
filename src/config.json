@@ -1,0 +1,16 @@
+{
+    "footerText": "Snowburg",
+    "footerIcon": "https://cdn.discordapp.com/attachments/806447898451116062/1090940419770175489/discord-avatar-128-X0J8I.gif",
+    "defaultColor": "#00c2ff",
+    "warningColor": "#fc9803",
+    "dangerColor": "#ff0022",
+    "suggestionChannelID": "1291369397973286963",
+    "ticketCategoryID": "1273091324203241493",
+    "applyCategoryID": "1273091324203241493",
+    "SupportRoleID": "1250803308101107783",
+    "ticketchannelId": "1273249299798429758",
+    "auditChannelID": "1273249299798429758",
+    "staffRole": "Team",
+    "LeadRoleID": "1250803768417583174",
+    "memberRoleID": "1251172999076380692"
+}
